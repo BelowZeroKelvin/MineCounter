@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "minecounter",
+  "version": "${version}",
+  "name": "MineCounter",
+  "description": "添加挖掘榜",
+  "authors": [
+    "ZeroKelvin"
+  ],
+  "contact": {
+    "website": "http://github.com/BelowZeroKelvin"
+  },
+  "license": "GPL-3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": []
+  },
+  "mixins": [
+    "minecounter.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "minecraft": "1.16.x"
+  }
+}
