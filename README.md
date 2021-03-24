@@ -1,6 +1,6 @@
 # MineCounter
-一个使用fabric写的计分板  
-感谢 [Fallen_Breath](https://github.com/Fallen-Breath) 的 [more-statistic](https://github.com/Fallen-Breath/more-statistics) 
+增加了一个新的计分项 `mine_counter` ，用来统计玩家的挖掘总量   
+感谢 [Fallen_Breath](https://github.com/Fallen-Breath) 的 [more-statistic](https://github.com/Fallen-Breath/more-statistics)  
 ## 快速开始
 你可以使用计分板 `/scoreboard` 来统计玩家的挖掘信息，该计分板使用的准则为 `minecraft.custom:minecraft.mine_counter`  
 使用以下指令来新建该计分板
